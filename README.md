@@ -1,4 +1,13 @@
-## Hi there 👋
+## Greetings, World
+
+## Music & General Programming
+
+In alphabetical order (because failure to order your query can return unexpected results)
+[![My Skills](https://skillicons.dev/icons?i=apple,blender,c,cs,docker,godot,html,js,latex,mysql,powershell,regex,swift,wordpress)](https://skillicons.dev)
+
+![Pietro's GitHub stats](https://github-readme-stats.vercel.app)
+![Top Languages](github-readme-stats.vercel.app)
+[GitHub Streak](github-readme-streak-stats.deno.dev)
 
 <!--
 **Pietro-epi/Pietro-epi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
