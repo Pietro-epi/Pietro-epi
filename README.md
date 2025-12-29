@@ -1,6 +1,12 @@
 ## Greetings, World
 
-[![Skills](https://skillicons.dev/icons?i=apple,blender,c,cs,docker,godot,html,js,latex,mysql,powershell,regex,swift,wordpress)](https://skillicons.dev)
+<!--[![Skills](https://skillicons.dev/icons?i=apple,blender,c,cs,docker,godot,html,js,latex,mysql,powershell,regex,swift,wordpress)](https://skillicons.dev)-->
+
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=apple,macos,ios,ipados)
+
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=swift,swiftui,c,csharp,sql,html,javascript,powershell)
+
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=wordpress,microsoftexcel,godot,blender,docker,affinity,mysql,regex,sqlserver,visualstudio,visualstudiocode,xcode)
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pietro-epi)](https://github.com/pietro-epi/github-readme-stats) -->
 
